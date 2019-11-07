@@ -56,7 +56,7 @@ setup(
     ]),
     install_requires=[
         'requests>=2.21.0',  # Apache 2.0
-        'beautifulsoup4>=4.7.0',  # BSD
+        'beautifulsoup4>=4.6.0',  # BSD
     ],
     extras_require={
 
